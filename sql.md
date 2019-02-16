@@ -39,6 +39,8 @@ Istnieje kilka agregatów:
  * `sum()` - dodaje elementy
  * `min()`, `max()`, `avg()` - obliczają odpowiednio wartość najmniejszą, największą i średnią
 
+ Dokumenraacja: http://www.sqlitetutorial.net/sqlite-aggregate-functions/
+
 ## HAVING
 
 Filtruje rekordy na podstawie wartości agregatów - analogicznie jak `WHERE` filtruje na podstawie wartości pojedynczych pól
@@ -76,3 +78,7 @@ SELECT * FROM users
 SELECT * FROM authors
     JOIN titles ON authors.ID == titles.author_id
 ```
+
+## Obsługa dat
+
+Daty w SQLite są przechowywane jako napisy. Przed "użyciem" należy je przekształcić do odpowiedniego formatu. Najlepiej opisuje to dokumentacja: http://www.sqlitetutorial.net/sqlite-aggregate-functions/
