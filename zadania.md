@@ -1,55 +1,55 @@
- * Oblicz liczbę użytkowników biblioteki
- * Oblicz liczbę użytkowników biblioteki aktywnych w 2018 r.
- * Podaj listę użytkowników, którzy w 2010 r. pożyczyli więcej niż 3 książki
- * Oblicz liczbę książek pożyczonych przez każdego z użytkowników.
- * Oblicz liczbę książek pożyczonych przez każdego z użytkowników w 2017 r.
+1. Oblicz liczbę użytkowników biblioteki
+2. Oblicz liczbę użytkowników biblioteki aktywnych w 2018 r.
+3. Podaj listę użytkowników, którzy w 2010 r. pożyczyli więcej niż 3 książki
+4. Oblicz liczbę książek pożyczonych przez każdego z użytkowników.
+5. Oblicz liczbę książek pożyczonych przez każdego z użytkowników w 2017 r.
 
 ---
 
- * Podaj łączną liczbę wypożyczeń każdego egzemplarza
- * Podaj łączną liczbę wypożyczeń każdego tytułu
- * Podaj 10 najpopularniejszych tytułów w 2016 r.
+6. Podaj łączną liczbę wypożyczeń każdego egzemplarza
+7. Podaj łączną liczbę wypożyczeń każdego tytułu
+8. Podaj 10 najpopularniejszych tytułów w 2016 r.
 
 ---
 
- * Podaj listę pozycji (tytuł, ID egzemplarza, imię i nazwisko użytkownika) oddanych po terminie
- * Podaj listę pozycji (tytuł, ID egzemplarza, imię i nazwisko użytkownika, liczba dni) oddanych po terminie
- * Podaj listę pozycji (tytuł, ID egzemplarza, imię i nazwisko użytkownika) nieoddanych
+9. Podaj listę pozycji (tytuł, ID egzemplarza, imię i nazwisko użytkownika) oddanych po terminie
+10. Podaj listę pozycji (tytuł, ID egzemplarza, imię i nazwisko użytkownika, liczba dni) oddanych po terminie
+11. Podaj listę pozycji (tytuł, ID egzemplarza, imię i nazwisko użytkownika) nieoddanych
 
 ---
 
- * Podaj 20 najdłużyszych zakończonych wypożyczeń
- * Podaj 10 najdłuższych niezakończonych wypożyczeń
+12. Podaj 20 najdłużyszych zakończonych wypożyczeń
+13. Podaj 10 najdłuższych niezakończonych wypożyczeń
 
 ---
 
- * Oblicz średnią liczbę dni wypożyczenia dla każdego użytkownika
- * Oblicz łączną liczbę dni wypożyczenia ponad termin dla każdego użytkownika
- * Oblicz średnią liczbę dni wypożyczenia ponad termin dla każdego użytkownika
+14. Oblicz średnią liczbę dni wypożyczenia dla każdego użytkownika
+15. Oblicz łączną liczbę dni wypożyczenia ponad termin dla każdego użytkownika
+16. Oblicz średnią liczbę dni wypożyczenia ponad termin dla każdego użytkownika
 
 ---
 
- * Podaj 10 tytułów, które średnio są wypożyczane na największą liczbę dni
- * Podaj 10 tytułów, które były najdłużej wypożyczone
- * Podaj 10 tytułów, które były najdłużej wypożyczone (uwzględnij wypożyczenia, które nadaj trwają)
+17. Podaj 10 tytułów, które średnio są wypożyczane na największą liczbę dni
+18. Podaj 10 tytułów, które były najdłużej wypożyczone
+19. Podaj 10 tytułów, które były najdłużej wypożyczone (uwzględnij wypożyczenia, które nadaj trwają)
 
 ---
 
- * Oblicz łączną kwotę zapłaconą przez każdego z użytkowników
- * Oblicz łączną kwotę, który każdy użytkownik powinien był zapłacić
- * Podaj listę użytkowników zalegających z opłatami
- * Oblicz dług każdego użytkownika zalegającego z opłatami
+20. Oblicz łączną kwotę zapłaconą przez każdego z użytkowników
+21. Oblicz łączną kwotę, który każdy użytkownik powinien był zapłacić
+22. Podaj listę użytkowników zalegających z opłatami
+23. Oblicz dług każdego użytkownika zalegającego z opłatami
 
 ---
 
- * Podaj średnią liczbę wypożyczeń egzemplarzy każdego z tytułów
- * Podaj średnią liczbę wypożyczeń tytułów każdego z autorów
- * Podaj średnią liczbę wypożyczeń egzemplarzy każdego z autorów
+24. Podaj średnią liczbę wypożyczeń egzemplarzy każdego z tytułów
+25. Podaj średnią liczbę wypożyczeń tytułów każdego z autorów
+26. Podaj średnią liczbę wypożyczeń egzemplarzy każdego z autorów
 
 ---
 
- * Podaj najpopularniejszego autora dla każdego użytkownika
- * Podaj najaktywniejszego użytkownika dla każdego autora
+27. Podaj najpopularniejszego autora dla każdego użytkownika
+28. Podaj najaktywniejszego użytkownika dla każdego autora
 
 ---
 
