@@ -81,4 +81,4 @@ SELECT * FROM authors
 
 ## Obsługa dat
 
-Daty w SQLite są przechowywane jako napisy. Przed "użyciem" należy je przekształcić do odpowiedniego formatu. Najlepiej opisuje to dokumentacja: http://www.sqlitetutorial.net/sqlite-aggregate-functions/
+Daty w SQLite są przechowywane jako napisy. Przed "użyciem" należy je przekształcić do odpowiedniego formatu. Najlepiej opisuje to dokumentacja: https://www.sqlite.org/lang_datefunc.html
