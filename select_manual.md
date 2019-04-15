@@ -1,4 +1,4 @@
-# Zapytania SQL
+# Zapytanie SELECT
 
 ## SELECT FROM
 
