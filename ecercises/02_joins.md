@@ -1,3 +1,14 @@
+Skorzystaj z bazy `library_db.sql`
+
+---
+
+Dodatkowe informacje:
+  
+  * maksymalny czas wypożyczenia - 25 dni
+  * opłata za każdy dzień zwłoki - 0,50 PLN
+
+---
+
 1. Oblicz liczbę użytkowników biblioteki
 2. Oblicz liczbę użytkowników biblioteki aktywnych w 2018 r.
 3. Podaj listę użytkowników, którzy w 2010 r. pożyczyli więcej niż 3 książki
@@ -50,10 +61,3 @@
 
 27. Podaj najpopularniejszego autora dla każdego użytkownika
 28. Podaj najaktywniejszego użytkownika dla każdego autora
-
----
-
-Dodatkowe informacje:
-  
-  * maksymalny czas wypożyczenia - 25 dni
-  * opłata za każdy dzień zwłoki - 0,50 PLN

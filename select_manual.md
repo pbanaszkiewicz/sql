@@ -60,6 +60,15 @@ SELECT * FROM authors
     ORDER BY surname, name
 ```
 
+### DESC
+
+Sortuje wynik w kolejności malejącej
+
+```SQL
+SELECT * FROM authors
+    ORDER BY surname DESC
+```
+
 ## LIMIT
 
 Zwraca kilka pierwszych wyników zapytania
@@ -68,6 +77,20 @@ Zwraca kilka pierwszych wyników zapytania
 SELECT * FROM users
     ORDER BY surname
     LIMIT 20
+```
+
+## DISTINCT
+
+Zwraca w wyniku rekordy bez powtórzeń
+
+```SQL
+SELECT DISTINCT surname FROM users
+```
+
+Może być także użyte w agregatach
+
+```SQL
+SELECT surname, count(DISTINCT name) FROM users
 ```
 
 ## JOIN

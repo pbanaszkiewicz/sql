@@ -1,3 +1,7 @@
+Skorzystaj z bazy `library_db.sql`
+
+---
+
 1. Podaj najpopularniejszego autora dla każdego użytkownika
 2. Podaj najaktywniejszego użytkownika dla każdego autora
 
