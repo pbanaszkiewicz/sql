@@ -56,8 +56,3 @@ Dodatkowe informacje:
 24. Podaj średnią liczbę wypożyczeń egzemplarzy każdego z tytułów
 25. Podaj średnią liczbę wypożyczeń tytułów każdego z autorów
 26. Podaj średnią liczbę wypożyczeń egzemplarzy każdego z autorów
-
----
-
-27. Podaj najpopularniejszego autora dla każdego użytkownika
-28. Podaj najaktywniejszego użytkownika dla każdego autora
