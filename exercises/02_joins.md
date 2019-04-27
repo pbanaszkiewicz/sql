@@ -48,7 +48,9 @@ Dodatkowe informacje:
 
 20. Oblicz łączną kwotę zapłaconą przez każdego z użytkowników
 21. Oblicz łączną kwotę, który każdy użytkownik powinien był zapłacić
+
 ~~22. Podaj listę użytkowników zalegających z opłatami~~
+
 ~~23. Oblicz dług każdego użytkownika zalegającego z opłatami~~
 
 ---
