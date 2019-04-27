@@ -10,3 +10,7 @@ Skorzystaj z bazy `library_db.sql`
 3. Podaj listę użytkowników, którzy przez cały okres działalności biblioteki pożyczyli więcej książek niż przeciętny użytkownik
 4. Podaj listę użytkowników, którzy w 1995 r. pożyczyli więcej książek niż przeciętny użytkownik
 5. Dla każdego użytkownika podaj rok, w którym pożyczył najwięcej książek
+
+---
+
+6. Oblicz dług każdego użytkownika zalegającego z opłatami
