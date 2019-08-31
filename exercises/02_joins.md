@@ -43,7 +43,7 @@ Dodatkowe informacje:
 
 18. Podaj 10 tytułów, które średnio są wypożyczane na największą liczbę dni
 19. Podaj 10 tytułów, które były najdłużej wypożyczone
-20. Podaj 10 tytułów, które były najdłużej wypożyczone (uwzględnij wypożyczenia, które nadaj trwają)
+20. Podaj 10 tytułów, które były najdłużej wypożyczone (uwzględnij wypożyczenia, które nadal trwają)
 
 ---
 
