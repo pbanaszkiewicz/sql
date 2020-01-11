@@ -17,11 +17,11 @@ Na wyniku tego zapytania możemy wykonać kolejne zapytanie, by otrzymać listę
 
 ```SQL
 SELECT * FROM
-    (SELECT users.name, users.surname, count(borrowings.ID)
+    (SELECT users.name, users.surname, count(borrowings.ID) as activity
         FROM users
         JOIN borrowings ON users.ID = borrowings.user_id
-        GROUP BY users.ID)
-    WHERE activity > 20
+        GROUP BY users.ID) il_pozycz
+    WHERE il_pozycz.activity >=14
 ```
 
 ## Podzapytania w `WHERE`
