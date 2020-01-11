@@ -47,7 +47,7 @@ Analogicznie do poprzedniego rozdziału - jeśli podzapytanie zwraca pojedynczą
 
 ```SQL
 SELECT users.name, users.surname,
-        (SELECT count(borrowings.ID from borrowings WHERE borowwings.user_id = users.ID)) as books
+        (SELECT count(borrowings.ID) from borrowings WHERE borrowings.user_id = users.ID) as books
     FROM users
 ```
 
