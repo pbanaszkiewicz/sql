@@ -13,7 +13,7 @@ SELECT users.name, users.surname, count(borrowings.ID) as activity
     GROUP BY users.ID
 ```
 
-Na wyniku tego zapytania możemy wykonać kolejne zapytanie, by otrzymać listę użytkowników, którzy pożyczyli więcej niż 20 książek:
+Na wyniku tego zapytania możemy wykonać kolejne zapytanie, by otrzymać listę użytkowników, którzy pożyczyli więcej niż 14 książek:
 
 ```SQL
 SELECT * FROM
